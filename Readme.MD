@@ -1,4 +1,4 @@
-This work performs the experiments on pick and place setup from [this](https://arxiv.org/pdf/2010.14500) paper. 
+This work takes inspiration and performs experiments on pick and place setup from [this](https://arxiv.org/pdf/2010.14500) paper. 
 The objective is to:
 1. compare the performance of offline RL algorithm TD3+BC with CQL
 2. compare the performance of CQL leveraging pretrained resnet vs CNN
